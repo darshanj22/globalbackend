@@ -1,4 +1,4 @@
-/*const express = require("express");
+const express = require("express");
 const app = express();
 const mongoose = require("mongoose");
 const cors = require("cors")
@@ -58,4 +58,3 @@ app.get("/fetch"),(req,res)=>{
   const username=req.query.username;
 
 }
-*/
